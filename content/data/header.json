@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "labs",
-            "url": "/pricing",
+            "url": "/labs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
