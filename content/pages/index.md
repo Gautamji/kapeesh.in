@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Innovate with Kapeesh
       color: text-primary
       styles:
         self:
