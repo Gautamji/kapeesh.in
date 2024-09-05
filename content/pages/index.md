@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Shaping the Future with Generative AI and Next-Generation Solutions.
       color: text-dark
       type: TitleBlock
     subtitle: 'From Understanding to Innovation, We Build What Matters.'
