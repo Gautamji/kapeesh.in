@@ -22,7 +22,7 @@
         },
         {
             "label": "Case Studies",
-            "altText": "Blog",
+            "altText": "Case Studies",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
