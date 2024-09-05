@@ -120,10 +120,10 @@ sections:
         type: FeaturedItem
       - title: Consulting Services
         subtitle: Expert Guidance for Digital Transformation
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          With years of experience across multiple industries, we provide expert
+          consultancy services to help your business implement the right digital
+          strategies, tools, and solutions
         image:
           url: /images/icon3.svg
           altText: Featured icon three
