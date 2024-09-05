@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: Generative AI Solutions
         subtitle: Revolutionize Your Business with AI
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Leverage the power of generative AI to create intelligent, automated
+          systems. From content generation to advanced algorithms, our AI
+          solutions are tailored to meet your specific business needs
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
