@@ -94,7 +94,7 @@ sections:
               borderRadius: x-large
         tagline: ''
       - title: Web and App Dev
-        subtitle: Custom Websites and Applications
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
