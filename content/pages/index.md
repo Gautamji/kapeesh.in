@@ -4,14 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Transform Your Dreams into Reality.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'From Understanding to Innovation, We Build What Matters To You.'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We take your ideas from concept to completion. Using the latest in
+      generative AI and cutting-edge technologies, we craft tailored solutions
+      that bring your vision to life. Whether you’re looking to enhance your web
+      presence, automate processes, or create immersive digital experiences,
+      we’re here to help you through every step.
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +34,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: With uS
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +55,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Services
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Comprehensive Solutions to Fit Your Needs
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Generative AI Solutions
+        subtitle: Revolutionize Your Business with AI
+        text: >
+          Leverage the power of generative AI to create intelligent, automated
+          systems. From content generation to advanced algorithms, our AI
+          solutions are tailored to meet your specific business needs
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +92,13 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        tagline: ''
+      - title: Web Development
+        subtitle: Custom Websites and Applications
+        text: >
+          Our team specializes in building scalable, high-performance websites
+          and web apps. From design to development, we ensure your online
+          presence stands out and functions seamlessly.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +118,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Consulting Services
+        subtitle: Expert Guidance for Digital Transformation
+        text: >
+          With years of experience across multiple industries, we provide expert
+          consultancy services to help your business implement the right digital
+          strategies, tools, and solutions
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Innovate with Kapeesh
       color: text-primary
       styles:
         self:
@@ -168,12 +171,12 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our Clients
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/OC_Logo.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Artboard1copy2.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
@@ -435,7 +438,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +468,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +528,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +558,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +653,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
