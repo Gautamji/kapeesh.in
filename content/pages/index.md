@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Transform Your Ideas into Reality with Our Expertise and AI.
+      text: Transform Your Dreams into Reality with Our Expertise and AI.
       color: text-dark
       type: TitleBlock
     subtitle: 'From Understanding to Innovation, We Build What Matters.'
