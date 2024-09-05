@@ -92,7 +92,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Revolutionize Your Business with AI
+        tagline: ''
       - title: 20x
         subtitle: The Job Stuff
         text: >-
