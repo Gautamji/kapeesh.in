@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Generative AI Solutions
-        subtitle: Numbers Done
+        subtitle: Revolutionize Your Business with AI
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
