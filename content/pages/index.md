@@ -204,7 +204,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Our Clients
+      text: ''
       color: text-dark
       styles:
         self:
