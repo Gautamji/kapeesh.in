@@ -7,7 +7,7 @@ sections:
       text: Transform Your Dreams into Reality.
       color: text-dark
       type: TitleBlock
-    subtitle: 'From Understanding to Innovation, We Build What Matters.'
+    subtitle: 'From Understanding to Innovation, We Build What Matters To You.'
     text: >
       We take your ideas from concept to completion. Using the latest in
       generative AI and cutting-edge technologies, we craft tailored solutions
