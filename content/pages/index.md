@@ -172,7 +172,7 @@ sections:
         textAlign: center
   - subtitle: Our Clients
     images:
-      - url: /images/TOCLogo-1.png
+      - url: /images/OC_Logo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Artboard1copy2.png
