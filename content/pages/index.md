@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: 'From Understanding to Innovation, We Build What Matters.'
     text: >
-      Kapeesh helps businesses of all sizes take their ideas from concept to
-      completion. Using the latest in generative AI and cutting-edge technology,
-      we craft tailored solutions that bring your vision to life. Whether you’re
-      looking to enhance your web presence, automate processes, or create
-      immersive digital experiences, we’re here to guide you through every step.
+      We take your ideas from concept to completion. Using the latest in
+      generative AI and cutting-edge technologies, we craft tailored solutions
+      that bring your vision to life. Whether you’re looking to enhance your web
+      presence, automate processes, or create immersive digital experiences,
+      we’re here to guide you through every step.
     actions:
       - label: Get started
         altText: ''
