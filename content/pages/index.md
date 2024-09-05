@@ -95,10 +95,10 @@ sections:
         tagline: ''
       - title: Web Development
         subtitle: Custom Websites and Applications
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our team specializes in building scalable, high-performance websites
+          and web apps. From design to development, we ensure your online
+          presence stands out and functions seamlessly.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
