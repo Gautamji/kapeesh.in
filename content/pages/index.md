@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Shaping the Future with Generative AI and Next-Generation Solutions.
+      text: 'From Vision to Reality: Empowering Businesses Through Innovation and AI.'
       color: text-dark
       type: TitleBlock
     subtitle: 'From Understanding to Innovation, We Build What Matters.'
