@@ -13,7 +13,7 @@ sections:
       generative AI and cutting-edge technologies, we craft tailored solutions
       that bring your vision to life. Whether you’re looking to enhance your web
       presence, automate processes, or create immersive digital experiences,
-      we’re here to guide you through every step.
+      we’re here to help you through every step.
     actions:
       - label: Get started
         altText: ''
