@@ -64,7 +64,7 @@ sections:
     subtitle: Comprehensive Solutions to Fit Your Needs
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Generative AI Solutions
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
