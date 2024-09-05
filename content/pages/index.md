@@ -171,7 +171,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
+  - subtitle: Our Clients
     images:
       - url: /images/OC_Logo.png
         altText: Empathy logo
