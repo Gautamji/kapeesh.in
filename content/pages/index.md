@@ -175,7 +175,7 @@ sections:
       - url: /images/TOCLogo-1.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Artboard1copy2.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
