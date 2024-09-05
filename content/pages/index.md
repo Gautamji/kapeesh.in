@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Understand. Articulate. Innovate
+      label: With uS
       color: text-primary
       type: Badge
     elementId: ''
