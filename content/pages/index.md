@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: Custom Websites and Applications
+      - title: Web Development
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
