@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'From Vision to Reality: Empowering Businesses Through Innovation and AI.'
+      text: Let’s Transform Your Ideas into Reality with Our Expertise and AI.
       color: text-dark
       type: TitleBlock
     subtitle: 'From Understanding to Innovation, We Build What Matters.'
